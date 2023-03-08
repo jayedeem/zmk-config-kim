@@ -1,5 +1,1 @@
-# Kim's ZMK Config
-
-## Keymap
-
-![Keymap](keymap_img/chocofi_keymap.svg)
+This a fork of [Kim] (https://github.com/infused-kim/zmk-config)
