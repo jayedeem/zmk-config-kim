@@ -149,6 +149,6 @@
       key-positions = <LH1 RH1>;
       layers = <BASE BASE_QWERTY NAV NAV_WORD>;
       bindings = <&kp ESC>; 
-    }
+    };
   };
 };
