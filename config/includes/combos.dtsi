@@ -1,4 +1,4 @@
-#include "../../zmk-nodefree-config/keypos_def/keypos_42keys.h"
+#include "../../zmk-nodefree-config/keypos_def/keypos_34keys.h"
 
 #define COMBO_TERM_FAST 35
 #define COMBO_TERM_SLOW 40
@@ -150,5 +150,6 @@
       layers = <BASE BASE_QWERTY NAV NAV_WORD>;
       bindings = <&kp ESC>; 
     };
-  };
-};
+ }
+
+  
