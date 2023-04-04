@@ -150,6 +150,6 @@
       layers = <BASE BASE_QWERTY NAV NAV_WORD>;
       bindings = <&kp ESC>; 
     };
- }
+ };
 
   
